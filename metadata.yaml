@@ -1,0 +1,29 @@
+_repo: Three-Little-Cousins_26208
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 26208-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Blanchard, Amy Ella
+    alias: Blanchard, Amy E. (Amy Ella)
+    birthdate: 1856
+    deathdate: 1926
+    gutenberg_agent_id: '8406'
+    url: http://www.gutenberg.org/2009/agents/8406
+    wikipedia: http://en.wikipedia.org/wiki/Amy_Ella_Blanchard
+description: ''
+gutenberg_issued: '2008-08-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26208'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Girls -- Juvenile fiction'
+- !lcsh 'Cousins -- Juvenile fiction'
+- !lcc 'PZ'
+title: Three Little Cousins
+url: http://www.gutenberg.org/ebooks/26208
